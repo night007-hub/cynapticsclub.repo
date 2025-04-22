@@ -1,1 +1,1 @@
-# cynapticsclub.repo
+# cnn and gan project
